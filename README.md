@@ -34,12 +34,12 @@ git clone [https://github.com/yourusername/AcademicTrack.git](https://github.com
 Compile the code:
 Navigate to the src folder and run:
 
-javac Main.java
+javac App.java
 
 
 Run the application:
 
-java Main
+java App
 
 
 Usage Instructions
