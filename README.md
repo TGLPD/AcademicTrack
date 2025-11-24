@@ -2,8 +2,8 @@
 
 ## Overview
 
-**AcademicTrack is a Java-based console application designed to help students and administrators manage academic records. It facilitates the tracking of course grades, calculation of GPA/CGPA, and generation of academic reports.
-**
+**AcademicTrack is a Java-based console application designed to help students and administrators manage academic records. It facilitates the tracking of course grades, calculation of GPA/CGPA, and generation of academic reports.**
+
 ## Features
 
 User Management: Register new students with unique IDs.
@@ -62,4 +62,5 @@ Select Option 3 to Generate a GPA report/transcript.
 ![alt text](<Output/Screenshot 2025-11-24 213210.png>)
 
 ![alt text](<Output/Screenshot 2025-11-24 213242.png>)
+
 
