@@ -49,3 +49,16 @@ Select Option 1 to Register a new student.
 Select Option 2 to Add a course and grade to a student's record.
 
 Select Option 3 to Generate a GPA report/transcript.
+
+
+Outputs
+
+![Main ](Output/main.png)
+
+![alt text](<Output/Screenshot 2025-11-24 213032.png>)
+
+![alt text](<Output/Screenshot 2025-11-24 213144.png>)
+
+![alt text](<Output/Screenshot 2025-11-24 213210.png>)
+
+![alt text](<Output/Screenshot 2025-11-24 213242.png>)
